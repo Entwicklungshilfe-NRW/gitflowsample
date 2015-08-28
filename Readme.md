@@ -1,3 +1,3 @@
 # git-flow example
 
-second step on release/1.0
+merge release into develop
