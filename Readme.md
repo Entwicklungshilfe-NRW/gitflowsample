@@ -1,4 +1,3 @@
 # git-flow example
 
-sixth development step
-third feature step on feature/first
+first step on release/1.0
