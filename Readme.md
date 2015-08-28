@@ -1,3 +1,3 @@
 # git-flow example
 
-first step feature/second
+second step feature/second
