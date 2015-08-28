@@ -1,3 +1,3 @@
 # git-flow example
 
-merge release into develop
+sixth step on feature/first
