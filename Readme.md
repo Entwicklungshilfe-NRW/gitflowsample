@@ -1,3 +1,3 @@
 # git-flow example
 
-hotfix
+forth step on release/1.0
