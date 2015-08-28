@@ -1,3 +1,3 @@
 # git-flow example
 
-third step on release/1.0
+forth step on release/1.0
