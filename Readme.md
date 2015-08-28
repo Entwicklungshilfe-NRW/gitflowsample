@@ -1,3 +1,3 @@
 # git-flow example
 
-merge develop into feature/first
+fifth step on feature/first
